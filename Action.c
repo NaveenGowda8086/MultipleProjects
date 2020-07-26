@@ -1,5 +1,5 @@
 Action()
 {
-	//First Comment Second script 11
+	//First Comment Second script
 	return 0;
 }
